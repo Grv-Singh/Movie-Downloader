@@ -1,4 +1,4 @@
-#Software Developed by the developer to Download Movies released in India from fmovies.ac
+#Script developed to automate downloading movies released in India from fmovies.ac
 import os
 import sys
 os.environ["LANG"] = "en_US.UTF-8"
