@@ -1,5 +1,6 @@
 # Movie-Downloader
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/grv97)
+<br>
 Automate the process of having mp4 of a movie of your choice, just select.
 
 IN CASE OF ANY ISSUES,
