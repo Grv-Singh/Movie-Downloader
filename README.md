@@ -1,6 +1,7 @@
 # Movie-Downloader
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/grv97)<br>
-[![Donate](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/Grv-Singh)<br>
+[![time tracker](https://wakatime.com/badge/github/Grv-Singh/Movie-Downloader.svg)](https://wakatime.com/badge/github/Grv-Singh/Movie-Downloader)<br>
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/acad.grv97@gmail.com)<br>
 Automate the process of having mp4 of a movie of your choice, just select.
 
 IN CASE OF ANY ISSUES,
